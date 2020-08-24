@@ -1,0 +1,14 @@
+web crawler -> crawls across all web pages & creates a big directory of all web pages.
+inverted index-> every doc is indexed, individual terms extracted and stored in a data structure.
+score -> highest scores shown on top which are relevant.
+return results.
+
+wrods ending with ong -> strong reverse it would be gnorts -> reverse gno and search.
+inverted index is the heart of search engine.
+
+elastic search uses apache lucene.
+distrbuted: scales to thousands of nodes.
+HA: multiple copies of data.
+REST API
+Query DSL
+Schemaless: index data without a explicit schema.
